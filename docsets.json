@@ -107,6 +107,15 @@
       "archive": "tRPC.tgz",
       "version": "1.240810.0117",
       "hash": "5459e24c79bc45025b4fa3f05c309456bfa89d1e"
+    },
+    "Valibot": {
+      "name": "Valibot",
+      "alias": [
+        "Valibot"
+      ],
+      "archive": "Valibot.tgz",
+      "version": "1.240810.0129",
+      "hash": "1e88cf79c51c2d5879a6b55f624af8f260647630"
     }
   }
 }
