@@ -89,6 +89,15 @@
       "archive": "Day.js.tgz",
       "version": "1.240810.0041",
       "hash": "ed038bfea258cf3a39ed3022fd943f15cedb946d"
+    },
+    "Zod": {
+      "name": "Zod",
+      "alias": [
+        "Zod"
+      ],
+      "archive": "Zod.tgz",
+      "version": "1.240810.0111",
+      "hash": "ea62bdf4620a22f4a2fa63b585049cd6eb256b5c"
     }
   }
 }
