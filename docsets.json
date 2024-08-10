@@ -44,6 +44,15 @@
       "archive": "Qwik.tgz",
       "version": "1.240809.2327",
       "hash": "c957744007b2e41fe049b785c4d5968a273445f4"
+    },
+    "HTMX": {
+      "name": "HTMX",
+      "alias": [
+        "HTMX"
+      ],
+      "archive": "HTMX.tgz",
+      "version": "1.240809.2351",
+      "hash": "d8f724f5e3ea7b384cbe1ec3708d5a5e32008513"
     }
   }
 }
