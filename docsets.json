@@ -458,6 +458,15 @@
       "archive": "GraphQL.js.tgz",
       "version": "1.240810.1459",
       "hash": "36ff2c4c700fb52f48f819b6c1b97ba56e1e9ca1"
+    },
+    "VueUse": {
+      "name": "VueUse",
+      "alias": [
+        "VueUse"
+      ],
+      "archive": "VueUse.tgz",
+      "version": "1.240810.1510",
+      "hash": "13bd5234ecf0c1529296c0694f5e9dc357371b85"
     }
   }
 }
