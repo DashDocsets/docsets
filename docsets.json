@@ -251,6 +251,15 @@
       "archive": "Slate.tgz",
       "version": "1.240810.1051",
       "hash": "f4c7ea703110375dd06713a1b313bd714c6a3c6a"
+    },
+    "FloatingUI": {
+      "name": "FloatingUI",
+      "alias": [
+        "FloatingUI"
+      ],
+      "archive": "FloatingUI.tgz",
+      "version": "1.240810.1054",
+      "hash": "376a498763c3685ea994aa91719ddc7ce3c75c7d"
     }
   }
 }
