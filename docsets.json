@@ -35,6 +35,15 @@
       "archive": "Zustand.tgz",
       "version": "1.240809.2204",
       "hash": "986faa7b8309ca4167da1f66c6478c3e7f930b18"
+    },
+    "Qwik": {
+      "name": "Qwik",
+      "alias": [
+        "Qwik"
+      ],
+      "archive": "Qwik.tgz",
+      "version": "1.240809.2327",
+      "hash": "c957744007b2e41fe049b785c4d5968a273445f4"
     }
   }
 }
