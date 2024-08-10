@@ -332,6 +332,15 @@
       "archive": "Refine.tgz",
       "version": "1.240810.1316",
       "hash": "dc25ab3c78931d9e862545c05772df166d975ec5"
+    },
+    "Tiptap": {
+      "name": "Tiptap",
+      "alias": [
+        "Tiptap"
+      ],
+      "archive": "Tiptap.tgz",
+      "version": "1.240810.1325",
+      "hash": "a21b4c07b70f106abfda11b7210ebebfde94eb40"
     }
   }
 }
