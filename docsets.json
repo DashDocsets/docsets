@@ -278,6 +278,15 @@
       "archive": "cheerio.tgz",
       "version": "1.240810.1112",
       "hash": "905e6454fc5ace5acf09cf1602cc3186aea6c40f"
+    },
+    "Editor.js": {
+      "name": "Editor.js",
+      "alias": [
+        "Editor.js"
+      ],
+      "archive": "Editor.js.tgz",
+      "version": "1.240810.1117",
+      "hash": "7160a3ce293389fd84348494e6dd60f4b6b95caa"
     }
   }
 }
