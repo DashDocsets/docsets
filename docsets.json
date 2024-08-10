@@ -395,6 +395,15 @@
       "archive": "Recharts.tgz",
       "version": "1.240810.1355",
       "hash": "bcd7354fd264585e4825ed9635197c196beab8e5"
+    },
+    "ReactNavigation": {
+      "name": "ReactNavigation",
+      "alias": [
+        "ReactNavigation"
+      ],
+      "archive": "ReactNavigation.tgz",
+      "version": "1.240810.1403",
+      "hash": "7895c803529d2bde052b919df0b37b89bcb34086"
     }
   }
 }
