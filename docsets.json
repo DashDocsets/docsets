@@ -368,6 +368,15 @@
       "archive": "LuciaAuth.tgz",
       "version": "1.240810.1337",
       "hash": "9ef5f666712cd51e0bebe0721d5dbfe4b698c5d2"
+    },
+    "Auth.js": {
+      "name": "Auth.js",
+      "alias": [
+        "Auth.js"
+      ],
+      "archive": "Auth.js.tgz",
+      "version": "1.240810.1345",
+      "hash": "ec105bb1d2bbf058875af25967a38f9f0dc6b40b"
     }
   }
 }
