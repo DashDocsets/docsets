@@ -323,6 +323,15 @@
       "archive": "XState.tgz",
       "version": "1.240810.1303",
       "hash": "b94f5babb0f3dc788c7be9df5ad09b640ccf7168"
+    },
+    "Refine": {
+      "name": "Refine",
+      "alias": [
+        "Refine"
+      ],
+      "archive": "Refine.tgz",
+      "version": "1.240810.1316",
+      "hash": "dc25ab3c78931d9e862545c05772df166d975ec5"
     }
   }
 }
