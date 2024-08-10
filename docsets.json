@@ -296,6 +296,15 @@
       "archive": "react-spring.tgz",
       "version": "1.240810.1122",
       "hash": "770ed8ccf0a47d1aabb63ba0045655ced7d1636f"
+    },
+    "react-select": {
+      "name": "react-select",
+      "alias": [
+        "react-select"
+      ],
+      "archive": "react-select.tgz",
+      "version": "1.240810.1126",
+      "hash": "26d54b32962a19e908fd8d85b7b1a548ba61ed12"
     }
   }
 }
