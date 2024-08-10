@@ -170,6 +170,15 @@
       "archive": "react-hook-form.tgz",
       "version": "1.240810.0300",
       "hash": "3db733f3f6033a7450dc89bd5f196c4478138b1f"
+    },
+    "Strapi": {
+      "name": "Strapi",
+      "alias": [
+        "Strapi"
+      ],
+      "archive": "Strapi.tgz",
+      "version": "1.240810.0311",
+      "hash": "79a5b2a7c821c81fad630cc39311d9f93c177a85"
     }
   }
 }
