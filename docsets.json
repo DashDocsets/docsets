@@ -143,6 +143,15 @@
       "archive": "Typia.tgz",
       "version": "1.240810.0206",
       "hash": "333310753189599e4fb7c7fd30c6240677f9349b"
+    },
+    "Typebox": {
+      "name": "Typebox",
+      "alias": [
+        "Typebox"
+      ],
+      "archive": "Typebox.tgz",
+      "version": "1.240810.0243",
+      "hash": "5ea2e0b16152a6874980441b59e4c7b03718188f"
     }
   }
 }
