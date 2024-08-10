@@ -377,6 +377,15 @@
       "archive": "Auth.js.tgz",
       "version": "1.240810.1345",
       "hash": "ec105bb1d2bbf058875af25967a38f9f0dc6b40b"
+    },
+    "docz": {
+      "name": "docz",
+      "alias": [
+        "docz"
+      ],
+      "archive": "docz.tgz",
+      "version": "1.240810.1347",
+      "hash": "e42cf3e6222e94fbccabddfe41ebb31f631ed43a"
     }
   }
 }
