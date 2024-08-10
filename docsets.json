@@ -62,6 +62,15 @@
       "archive": "Hono.tgz",
       "version": "1.240809.2359",
       "hash": "5237b8d429604e53140c2470715606e9a12eb238"
+    },
+    "Elysia.js": {
+      "name": "Elysia.js",
+      "alias": [
+        "Elysia.js"
+      ],
+      "archive": "Elysia.js.tgz",
+      "version": "1.240810.0004",
+      "hash": "57cdb4c3bbed19b05e182068728433c6b6d4eafc"
     }
   }
 }
