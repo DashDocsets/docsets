@@ -215,6 +215,15 @@
       "archive": "TypeORM.tgz",
       "version": "1.240810.0958",
       "hash": "3bee5413bd6a8fa67cb8f300c8a2d8d0259bb653"
+    },
+    "Formik": {
+      "name": "Formik",
+      "alias": [
+        "Formik"
+      ],
+      "archive": "Formik.tgz",
+      "version": "1.240810.1004",
+      "hash": "a0ba27b0d97a68980d4af74eee58ab79cd59189b"
     }
   }
 }
