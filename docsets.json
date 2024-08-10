@@ -134,6 +134,15 @@
       "archive": "Superstruct.tgz",
       "version": "1.240810.0155",
       "hash": "cd9f72c4e9c3c18b3c4dd3b59381b9453013ce3f"
+    },
+    "Typia": {
+      "name": "Typia",
+      "alias": [
+        "Typia"
+      ],
+      "archive": "Typia.tgz",
+      "version": "1.240810.0206",
+      "hash": "333310753189599e4fb7c7fd30c6240677f9349b"
     }
   }
 }
