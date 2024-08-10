@@ -6,3 +6,5 @@
 - [`PayloadCMS.docsetconfig`](./PayloadCMS.docsetconfig) - Issue with the JavasScript, apparently due to Next.js usage, probably hydratation errors or so.
 
 - [`ahooks.docsetconfig`](./ahooks.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps loading message on screen.
+
+- [`NextUI.docsetconfig`](./NextUI.docsetconfig) - Issue with the JavasScript, apparently due to Next.js usage, probably hydratation errors or so.
