@@ -188,6 +188,15 @@
       "archive": "Astro.tgz",
       "version": "1.240810.0327",
       "hash": "ae42535cf6624e45810978e3f44f0255a9b17a36"
+    },
+    "DrizzleORM": {
+      "name": "DrizzleORM",
+      "alias": [
+        "DrizzleORM"
+      ],
+      "archive": "DrizzleORM.tgz",
+      "version": "1.240810.0351",
+      "hash": "6c2189821bb00b789583def2640b96e777ffbc9b"
     }
   }
 }
