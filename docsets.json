@@ -314,6 +314,15 @@
       "archive": "MobX.tgz",
       "version": "1.240810.1129",
       "hash": "384858f2d90ed80613a611f603251776d67ccef4"
+    },
+    "XState": {
+      "name": "XState",
+      "alias": [
+        "XState"
+      ],
+      "archive": "XState.tgz",
+      "version": "1.240810.1303",
+      "hash": "b94f5babb0f3dc788c7be9df5ad09b640ccf7168"
     }
   }
 }
