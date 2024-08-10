@@ -197,6 +197,15 @@
       "archive": "DrizzleORM.tgz",
       "version": "1.240810.0351",
       "hash": "6c2189821bb00b789583def2640b96e777ffbc9b"
+    },
+    "Prisma": {
+      "name": "Prisma",
+      "alias": [
+        "Prisma"
+      ],
+      "archive": "Prisma.tgz",
+      "version": "1.240810.0401",
+      "hash": "eb8cb79ac72a99fcc0bb7b5b190f37892d1a2517"
     }
   }
 }
