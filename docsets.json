@@ -431,6 +431,15 @@
       "archive": "FramerMotion.tgz",
       "version": "1.240810.1427",
       "hash": "487525930f273bfaed2a989426149309a3116fb6"
+    },
+    "Yup": {
+      "name": "Yup",
+      "alias": [
+        "Yup"
+      ],
+      "archive": "Yup.tgz",
+      "version": "1.240810.1433",
+      "hash": "2ae76f99dc35f53bfd2a5da207dc9eb6e8d8b74c"
     }
   }
 }
