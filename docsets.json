@@ -80,6 +80,15 @@
       "archive": "Nuxt.tgz",
       "version": "1.240810.0030",
       "hash": "f280923f98a33c900f0089a7b593c1c69770940e"
+    },
+    "Day.js": {
+      "name": "Day.js",
+      "alias": [
+        "Day.js"
+      ],
+      "archive": "Day.js.tgz",
+      "version": "1.240810.0041",
+      "hash": "ed038bfea258cf3a39ed3022fd943f15cedb946d"
     }
   }
 }
