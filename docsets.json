@@ -98,6 +98,15 @@
       "archive": "Zod.tgz",
       "version": "1.240810.0111",
       "hash": "ea62bdf4620a22f4a2fa63b585049cd6eb256b5c"
+    },
+    "tRPC": {
+      "name": "tRPC",
+      "alias": [
+        "tRPC"
+      ],
+      "archive": "tRPC.tgz",
+      "version": "1.240810.0117",
+      "hash": "5459e24c79bc45025b4fa3f05c309456bfa89d1e"
     }
   }
 }
