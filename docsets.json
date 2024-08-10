@@ -242,6 +242,15 @@
       "archive": "SWR.tgz",
       "version": "1.240810.1030",
       "hash": "c1cd638131fbfce4c719b02e75eb0517eb5e2479"
+    },
+    "Slate": {
+      "name": "Slate",
+      "alias": [
+        "Slate"
+      ],
+      "archive": "Slate.tgz",
+      "version": "1.240810.1051",
+      "hash": "f4c7ea703110375dd06713a1b313bd714c6a3c6a"
     }
   }
 }
