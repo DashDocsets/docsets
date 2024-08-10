@@ -422,6 +422,15 @@
       "archive": "SvelteFlow.tgz",
       "version": "1.240810.1416",
       "hash": "e936e8e10714fe02d073fc3ca1efabfa7372f1cf"
+    },
+    "FramerMotion": {
+      "name": "FramerMotion",
+      "alias": [
+        "FramerMotion"
+      ],
+      "archive": "FramerMotion.tgz",
+      "version": "1.240810.1427",
+      "hash": "487525930f273bfaed2a989426149309a3116fb6"
     }
   }
 }
