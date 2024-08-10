@@ -359,6 +359,15 @@
       "archive": "HeadlessUI.tgz",
       "version": "1.240810.1333",
       "hash": "81fc5e2e256b39a2b26b2adefbf8fb5408f3488c"
+    },
+    "LuciaAuth": {
+      "name": "LuciaAuth",
+      "alias": [
+        "LuciaAuth"
+      ],
+      "archive": "LuciaAuth.tgz",
+      "version": "1.240810.1337",
+      "hash": "9ef5f666712cd51e0bebe0721d5dbfe4b698c5d2"
     }
   }
 }
