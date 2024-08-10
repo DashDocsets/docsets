@@ -305,6 +305,15 @@
       "archive": "react-select.tgz",
       "version": "1.240810.1126",
       "hash": "26d54b32962a19e908fd8d85b7b1a548ba61ed12"
+    },
+    "MobX": {
+      "name": "MobX",
+      "alias": [
+        "MobX"
+      ],
+      "archive": "MobX.tgz",
+      "version": "1.240810.1129",
+      "hash": "384858f2d90ed80613a611f603251776d67ccef4"
     }
   }
 }
