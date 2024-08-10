@@ -440,6 +440,15 @@
       "archive": "Yup.tgz",
       "version": "1.240810.1433",
       "hash": "2ae76f99dc35f53bfd2a5da207dc9eb6e8d8b74c"
+    },
+    "ReactDnD": {
+      "name": "ReactDnD",
+      "alias": [
+        "ReactDnD"
+      ],
+      "archive": "ReactDnD.tgz",
+      "version": "1.240810.1452",
+      "hash": "8c1fe9ce8ab7aa64579540b02b1f9abb554ae173"
     }
   }
 }
