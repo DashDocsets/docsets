@@ -152,6 +152,15 @@
       "archive": "Typebox.tgz",
       "version": "1.240810.0243",
       "hash": "5ea2e0b16152a6874980441b59e4c7b03718188f"
+    },
+    "Unpic": {
+      "name": "Unpic",
+      "alias": [
+        "Unpic"
+      ],
+      "archive": "Unpic.tgz",
+      "version": "1.240810.0251",
+      "hash": "ef084519f9531aea9467a00c0f7908741a9e4553"
     }
   }
 }
