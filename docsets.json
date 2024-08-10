@@ -269,6 +269,15 @@
       "archive": "Uppy.tgz",
       "version": "1.240810.1107",
       "hash": "f48b8cb155ec10f71293a1dca2da9c4b8dd49f3c"
+    },
+    "cheerio": {
+      "name": "cheerio",
+      "alias": [
+        "cheerio"
+      ],
+      "archive": "cheerio.tgz",
+      "version": "1.240810.1112",
+      "hash": "905e6454fc5ace5acf09cf1602cc3186aea6c40f"
     }
   }
 }
