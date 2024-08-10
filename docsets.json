@@ -116,6 +116,15 @@
       "archive": "Valibot.tgz",
       "version": "1.240810.0129",
       "hash": "1e88cf79c51c2d5879a6b55f624af8f260647630"
+    },
+    "ts-toolbelt": {
+      "name": "ts-toolbelt",
+      "alias": [
+        "ts-toolbelt"
+      ],
+      "archive": "ts-toolbelt.tgz",
+      "version": "1.240810.0135",
+      "hash": "3c84abb05e08855cbe31a59c8e43f8f5dd828f36"
     }
   }
 }
