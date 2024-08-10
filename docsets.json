@@ -224,6 +224,15 @@
       "archive": "Formik.tgz",
       "version": "1.240810.1004",
       "hash": "a0ba27b0d97a68980d4af74eee58ab79cd59189b"
+    },
+    "Expo": {
+      "name": "Expo",
+      "alias": [
+        "Expo"
+      ],
+      "archive": "Expo.tgz",
+      "version": "1.240810.1023",
+      "hash": "c51b7a491e3702ab75b49a5245328c5b3d2ea08d"
     }
   }
 }
