@@ -386,6 +386,15 @@
       "archive": "docz.tgz",
       "version": "1.240810.1347",
       "hash": "e42cf3e6222e94fbccabddfe41ebb31f631ed43a"
+    },
+    "Recharts": {
+      "name": "Recharts",
+      "alias": [
+        "Recharts"
+      ],
+      "archive": "Recharts.tgz",
+      "version": "1.240810.1355",
+      "hash": "bcd7354fd264585e4825ed9635197c196beab8e5"
     }
   }
 }
