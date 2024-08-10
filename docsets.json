@@ -125,6 +125,15 @@
       "archive": "ts-toolbelt.tgz",
       "version": "1.240810.0135",
       "hash": "3c84abb05e08855cbe31a59c8e43f8f5dd828f36"
+    },
+    "Superstruct": {
+      "name": "Superstruct",
+      "alias": [
+        "Superstruct"
+      ],
+      "archive": "Superstruct.tgz",
+      "version": "1.240810.0155",
+      "hash": "cd9f72c4e9c3c18b3c4dd3b59381b9453013ce3f"
     }
   }
 }
