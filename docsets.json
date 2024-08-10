@@ -260,6 +260,15 @@
       "archive": "FloatingUI.tgz",
       "version": "1.240810.1054",
       "hash": "376a498763c3685ea994aa91719ddc7ce3c75c7d"
+    },
+    "Uppy": {
+      "name": "Uppy",
+      "alias": [
+        "Uppy"
+      ],
+      "archive": "Uppy.tgz",
+      "version": "1.240810.1107",
+      "hash": "f48b8cb155ec10f71293a1dca2da9c4b8dd49f3c"
     }
   }
 }
