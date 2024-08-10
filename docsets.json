@@ -179,6 +179,15 @@
       "archive": "Strapi.tgz",
       "version": "1.240810.0311",
       "hash": "79a5b2a7c821c81fad630cc39311d9f93c177a85"
+    },
+    "Astro": {
+      "name": "Astro",
+      "alias": [
+        "Astro"
+      ],
+      "archive": "Astro.tgz",
+      "version": "1.240810.0327",
+      "hash": "ae42535cf6624e45810978e3f44f0255a9b17a36"
     }
   }
 }
