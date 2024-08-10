@@ -53,6 +53,15 @@
       "archive": "HTMX.tgz",
       "version": "1.240809.2351",
       "hash": "d8f724f5e3ea7b384cbe1ec3708d5a5e32008513"
+    },
+    "Hono": {
+      "name": "Hono",
+      "alias": [
+        "Hono"
+      ],
+      "archive": "Hono.tgz",
+      "version": "1.240809.2359",
+      "hash": "5237b8d429604e53140c2470715606e9a12eb238"
     }
   }
 }
