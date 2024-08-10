@@ -1,0 +1,40 @@
+{
+  "docsets": {
+    "Remeda": {
+      "name": "Remeda",
+      "alias": [
+        "Remeda"
+      ],
+      "archive": "Remeda.tgz",
+      "version": "1.240809.2204",
+      "hash": "708f88767a3e5b6c0d341117d783e153fc0f247c"
+    },
+    "Solid.js": {
+      "name": "Solid.js",
+      "alias": [
+        "Solid.js"
+      ],
+      "archive": "Solid.js.tgz",
+      "version": "1.240809.2204",
+      "hash": "7ed1750990b8139e1329fa6f0e49c781ae817911"
+    },
+    "Jotai": {
+      "name": "Jotai",
+      "alias": [
+        "Jotai"
+      ],
+      "archive": "Jotai.tgz",
+      "version": "1.240809.2204",
+      "hash": "1f3418083bc411911eb0561f8ac0ff20fc64606f"
+    },
+    "Zustand": {
+      "name": "Zustand",
+      "alias": [
+        "Zustand"
+      ],
+      "archive": "Zustand.tgz",
+      "version": "1.240809.2204",
+      "hash": "986faa7b8309ca4167da1f66c6478c3e7f930b18"
+    }
+  }
+}
