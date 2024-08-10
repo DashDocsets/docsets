@@ -341,6 +341,15 @@
       "archive": "Tiptap.tgz",
       "version": "1.240810.1325",
       "hash": "a21b4c07b70f106abfda11b7210ebebfde94eb40"
+    },
+    "Mantine": {
+      "name": "Mantine",
+      "alias": [
+        "Mantine"
+      ],
+      "archive": "Mantine.tgz",
+      "version": "1.240810.1330",
+      "hash": "e143933ae193fdda6214d353b1c3bcdaed9a78ed"
     }
   }
 }
