@@ -71,6 +71,15 @@
       "archive": "Elysia.js.tgz",
       "version": "1.240810.0004",
       "hash": "57cdb4c3bbed19b05e182068728433c6b6d4eafc"
+    },
+    "Nuxt": {
+      "name": "Nuxt",
+      "alias": [
+        "Nuxt"
+      ],
+      "archive": "Nuxt.tgz",
+      "version": "1.240810.0030",
+      "hash": "f280923f98a33c900f0089a7b593c1c69770940e"
     }
   }
 }
