@@ -206,6 +206,15 @@
       "archive": "Prisma.tgz",
       "version": "1.240810.0401",
       "hash": "eb8cb79ac72a99fcc0bb7b5b190f37892d1a2517"
+    },
+    "TypeORM": {
+      "name": "TypeORM",
+      "alias": [
+        "TypeORM"
+      ],
+      "archive": "TypeORM.tgz",
+      "version": "1.240810.0958",
+      "hash": "3bee5413bd6a8fa67cb8f300c8a2d8d0259bb653"
     }
   }
 }
