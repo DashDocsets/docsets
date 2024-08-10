@@ -413,6 +413,15 @@
       "archive": "ReactFlow.tgz",
       "version": "1.240810.1412",
       "hash": "242b19386d7747bcf959b103fa9f43524d3bf217"
+    },
+    "SvelteFlow": {
+      "name": "SvelteFlow",
+      "alias": [
+        "SvelteFlow"
+      ],
+      "archive": "SvelteFlow.tgz",
+      "version": "1.240810.1416",
+      "hash": "e936e8e10714fe02d073fc3ca1efabfa7372f1cf"
     }
   }
 }
