@@ -350,6 +350,15 @@
       "archive": "Mantine.tgz",
       "version": "1.240810.1330",
       "hash": "e143933ae193fdda6214d353b1c3bcdaed9a78ed"
+    },
+    "HeadlessUI": {
+      "name": "HeadlessUI",
+      "alias": [
+        "HeadlessUI"
+      ],
+      "archive": "HeadlessUI.tgz",
+      "version": "1.240810.1333",
+      "hash": "81fc5e2e256b39a2b26b2adefbf8fb5408f3488c"
     }
   }
 }
