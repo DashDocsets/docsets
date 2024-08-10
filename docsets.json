@@ -161,6 +161,15 @@
       "archive": "Unpic.tgz",
       "version": "1.240810.0251",
       "hash": "ef084519f9531aea9467a00c0f7908741a9e4553"
+    },
+    "react-hook-form": {
+      "name": "react-hook-form",
+      "alias": [
+        "react-hook-form"
+      ],
+      "archive": "react-hook-form.tgz",
+      "version": "1.240810.0300",
+      "hash": "3db733f3f6033a7450dc89bd5f196c4478138b1f"
     }
   }
 }
