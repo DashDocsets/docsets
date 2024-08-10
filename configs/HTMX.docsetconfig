@@ -1,46 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>allowFilters</key>
-	<string>https://htmx.org/*,https://htmx.org/*/*</string>
-	<key>basicIndexEnabled</key>
-	<true/>
-	<key>cssToInject</key>
-	<string>footer {
-    display: none !important;
-}</string>
-	<key>denyFilters</key>
-	<string></string>
-	<key>docsetKeyword</key>
-	<string>htmx</string>
-	<key>docsetName</key>
-	<string>HTMX</string>
-	<key>extraInfoPlist</key>
-	<string></string>
-	<key>isFromLocalFolder</key>
-	<false/>
-	<key>isFromWebsite</key>
-	<true/>
-	<key>javaScriptIndexEnabled</key>
-	<false/>
-	<key>javaScriptUsedToIndex</key>
-	<string>const pageTitle = $("title").text();
-dashDoc.addEntry({name: pageTitle, type: "Guide"});
-
-$("h1").each(function() {
-    const entryName = $(this).text();
-    var entryHash = $(this).attr('id');
-    if(!entryHash)
-    {
-        entryHash = entryName.replace(/\W/g, '');
-        $(this).attr('id', entryHash);
-    }
-    dashDoc.addEntry({name: entryName, type: "Section", hash: entryHash});
-});</string>
-	<key>localFolderPath</key>
-	<string></string>
-	<key>websiteURL</key>
-	<string>https://htmx.org</string>
-</dict>
+	<dict>
+		<key>allowFilters</key>
+		<string>https://htmx.org/*,https://htmx.org/*/*</string>
+		<key>basicIndexEnabled</key>
+		<true />
+		<key>cssToInject</key>
+		<string>footer { display: none !important; }</string>
+		<key>denyFilters</key>
+		<string></string>
+		<key>docsetKeyword</key>
+		<string>htmx</string>
+		<key>docsetName</key>
+		<string>HTMX</string>
+		<key>extraInfoPlist</key>
+		<string></string>
+		<key>isFromLocalFolder</key>
+		<false />
+		<key>isFromWebsite</key>
+		<true />
+		<key>javaScriptIndexEnabled</key>
+		<false />
+		<key>javaScriptUsedToIndex</key>
+		<string>const pageTitle = $("title").text(); dashDoc.addEntry({name: pageTitle, type:
+			"Guide"}); $("h1").each(function() { const entryName = $(this).text(); var entryHash =
+			$(this).attr('id'); if(!entryHash) { entryHash = entryName.replace(/\W/g, '');
+			$(this).attr('id', entryHash); } dashDoc.addEntry({name: entryName, type: "Section",
+			hash: entryHash}); });</string>
+		<key>localFolderPath</key>
+		<string></string>
+		<key>websiteURL</key>
+		<string>https://htmx.org</string>
+	</dict>
 </plist>
