@@ -87,6 +87,10 @@ const main = defineCommand({
 			console.log(
 				`Generating docset ${docsetName} from config ${docsetConfigPath}`,
 			);
+			console.log(`[LOG]: ./tmp/${docsetName}.docset/log.txt`);
+			console.log(
+				`[Scrapping LOG]: ./tmp/${docsetName}.docset/resumeData/scrapes.txt`,
+			);
 			await $`cd tmp && DocsetGenerator .${docsetConfigPath}`;
 			await $`cd tmp && tar -cvzf ../docsets/${docsetName}.tgz ${docsetName}.docset`;
 			console.log(`Docset ${docsetName} generated`);
