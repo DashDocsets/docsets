@@ -95,6 +95,15 @@ const main = defineCommand({
 			await $`cd tmp && tar -cvzf ../docsets/${docsetName}.tgz ${docsetName}.docset`;
 			console.log(`Docset ${docsetName} generated`);
 		}
+
+		const shouldGenerateJson = await confirm({
+			message: "Do you want to generate json?",
+			default: true,
+		});
+
+		if (shouldGenerateJson) {
+			await $`./generate-json.ts`;
+		}
 	},
 });
 
