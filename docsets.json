@@ -665,6 +665,15 @@
       "archive": "Tamagui.tgz",
       "version": "1.240811.2216",
       "hash": "3a28599eb0141f75e5aa94e1bc574d25c7c2b1da"
+    },
+    "Kysely": {
+      "name": "Kysely",
+      "alias": [
+        "Kysely"
+      ],
+      "archive": "Kysely.tgz",
+      "version": "1.240811.2229",
+      "hash": "cf68c24d10d21e83bc89e64debfa9f04f4cf5e4b"
     }
   }
 }
