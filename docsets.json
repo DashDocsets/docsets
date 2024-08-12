@@ -611,6 +611,15 @@
       "archive": "Internationalized.tgz",
       "version": "1.240811.2133",
       "hash": "f2e759a8fa25b6aa488ed9a51cc83b07ee50d480"
+    },
+    "NuxtImage": {
+      "name": "NuxtImage",
+      "alias": [
+        "NuxtImage"
+      ],
+      "archive": "NuxtImage.tgz",
+      "version": "1.240811.2136",
+      "hash": "66a3698589989511e13414d49ffcf10725b8e491"
     }
   }
 }
