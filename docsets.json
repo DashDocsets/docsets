@@ -521,6 +521,15 @@
       "archive": "Vitest.tgz",
       "version": "1.240811.2025",
       "hash": "201b4781e99aba3e8c8b74cf6033f36aa9dc0327"
+    },
+    "Vite": {
+      "name": "Vite",
+      "alias": [
+        "Vite"
+      ],
+      "archive": "Vite.tgz",
+      "version": "1.240811.2029",
+      "hash": "ac9f9a4835532fd02f2e78e79ca285114d15d1bd"
     }
   }
 }
