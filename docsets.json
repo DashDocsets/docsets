@@ -602,6 +602,15 @@
       "archive": "ReactStately.tgz",
       "version": "1.240811.2128",
       "hash": "f4fb655e99ae62d08799df181fa8abf5881be445"
+    },
+    "Internationalized": {
+      "name": "Internationalized",
+      "alias": [
+        "Internationalized"
+      ],
+      "archive": "Internationalized.tgz",
+      "version": "1.240811.2133",
+      "hash": "f2e759a8fa25b6aa488ed9a51cc83b07ee50d480"
     }
   }
 }
