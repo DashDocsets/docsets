@@ -629,6 +629,15 @@
       "archive": "MSW.tgz",
       "version": "1.240811.2140",
       "hash": "12b801b21ffbb9eb98b7d4c3fab947f402b162ac"
+    },
+    "Tremor": {
+      "name": "Tremor",
+      "alias": [
+        "Tremor"
+      ],
+      "archive": "Tremor.tgz",
+      "version": "1.240811.2145",
+      "hash": "f76bdbb5414bbbcc241871ef6bada5698f7716e3"
     }
   }
 }
