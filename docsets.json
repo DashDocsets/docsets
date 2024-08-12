@@ -503,6 +503,15 @@
       "archive": "AdonisJS.tgz",
       "version": "1.240811.2015",
       "hash": "8d7e458f313ba97c71dea00ec639436c9f0c7f83"
+    },
+    "Pinia": {
+      "name": "Pinia",
+      "alias": [
+        "Pinia"
+      ],
+      "archive": "Pinia.tgz",
+      "version": "1.240811.2021",
+      "hash": "9baba5cf9cd0911ab31c308bfacb52255d385520"
     }
   }
 }
