@@ -710,6 +710,15 @@
       "archive": "Turf.js.tgz",
       "version": "1.240811.2324",
       "hash": "68a7625b93d8cecb1df420adaa047ec28658e97d"
+    },
+    "Valtio": {
+      "name": "Valtio",
+      "alias": [
+        "Valtio"
+      ],
+      "archive": "Valtio.tgz",
+      "version": "1.240811.2331",
+      "hash": "d98599d7af0d200b24e524586d265685d0d8bdcc"
     }
   }
 }
