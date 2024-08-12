@@ -647,6 +647,15 @@
       "archive": "FormatJS.tgz",
       "version": "1.240811.2150",
       "hash": "3e31b7466370a34b38164a664064ad582f3722ec"
+    },
+    "Stencil": {
+      "name": "Stencil",
+      "alias": [
+        "Stencil"
+      ],
+      "archive": "Stencil.tgz",
+      "version": "1.240811.2201",
+      "hash": "c912f92f8386b6a2015c6ec333ab2369edf4fbd7"
     }
   }
 }
