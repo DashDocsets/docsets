@@ -575,6 +575,15 @@
       "archive": "AutoAnimate.tgz",
       "version": "1.240811.2101",
       "hash": "0175d5494546a4a6c2fd55f25314e87f04546a25"
+    },
+    "ReactAria": {
+      "name": "ReactAria",
+      "alias": [
+        "ReactAria"
+      ],
+      "archive": "ReactAria.tgz",
+      "version": "1.240811.2114",
+      "hash": "1b1e9a0570661e5d5c4bfbdb3911470b67eee818"
     }
   }
 }
