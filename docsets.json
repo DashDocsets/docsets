@@ -656,6 +656,15 @@
       "archive": "Stencil.tgz",
       "version": "1.240811.2201",
       "hash": "c912f92f8386b6a2015c6ec333ab2369edf4fbd7"
+    },
+    "Tamagui": {
+      "name": "Tamagui",
+      "alias": [
+        "Tamagui"
+      ],
+      "archive": "Tamagui.tgz",
+      "version": "1.240811.2216",
+      "hash": "3a28599eb0141f75e5aa94e1bc574d25c7c2b1da"
     }
   }
 }
