@@ -683,6 +683,15 @@
       "archive": "react-hot-toast.tgz",
       "version": "1.240811.2234",
       "hash": "21a141dfe0e9163aaf92cfb533bad9c7c23dbd34"
+    },
+    "Sonner": {
+      "name": "Sonner",
+      "alias": [
+        "Sonner"
+      ],
+      "archive": "Sonner.tgz",
+      "version": "1.240811.2241",
+      "hash": "3ea0f159966e30d1f07378317166d749b1e6a012"
     }
   }
 }
