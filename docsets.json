@@ -557,6 +557,15 @@
       "archive": "RadixUI.tgz",
       "version": "1.240811.2049",
       "hash": "847c803252dff7db3383901b60ae0eb89685d947"
+    },
+    "Tone.js": {
+      "name": "Tone.js",
+      "alias": [
+        "Tone.js"
+      ],
+      "archive": "Tone.js.tgz",
+      "version": "1.240811.2054",
+      "hash": "accbfea6e3936db0ff136232f1a4216d82777141"
     }
   }
 }
