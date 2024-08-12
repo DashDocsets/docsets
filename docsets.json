@@ -530,6 +530,15 @@
       "archive": "Vite.tgz",
       "version": "1.240811.2029",
       "hash": "ac9f9a4835532fd02f2e78e79ca285114d15d1bd"
+    },
+    "Partytown": {
+      "name": "Partytown",
+      "alias": [
+        "Partytown"
+      ],
+      "archive": "Partytown.tgz",
+      "version": "1.240811.2040",
+      "hash": "06e1f86051cace9d940622f4d9a3f7b612ab0145"
     }
   }
 }
