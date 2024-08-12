@@ -539,6 +539,15 @@
       "archive": "Partytown.tgz",
       "version": "1.240811.2040",
       "hash": "06e1f86051cace9d940622f4d9a3f7b612ab0145"
+    },
+    "Mitosis": {
+      "name": "Mitosis",
+      "alias": [
+        "Mitosis"
+      ],
+      "archive": "Mitosis.tgz",
+      "version": "1.240811.2044",
+      "hash": "4a6dd72024dcd381baa68ca50432e43774a8d981"
     }
   }
 }
