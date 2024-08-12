@@ -719,6 +719,15 @@
       "archive": "Valtio.tgz",
       "version": "1.240811.2331",
       "hash": "d98599d7af0d200b24e524586d265685d0d8bdcc"
+    },
+    "ReactThreeFiber": {
+      "name": "ReactThreeFiber",
+      "alias": [
+        "ReactThreeFiber"
+      ],
+      "archive": "ReactThreeFiber.tgz",
+      "version": "1.240811.2336",
+      "hash": "b3bf9c0307be28f8bfcacc92e2138a847c88d757"
     }
   }
 }
