@@ -548,6 +548,15 @@
       "archive": "Mitosis.tgz",
       "version": "1.240811.2044",
       "hash": "4a6dd72024dcd381baa68ca50432e43774a8d981"
+    },
+    "RadixUI": {
+      "name": "RadixUI",
+      "alias": [
+        "RadixUI"
+      ],
+      "archive": "RadixUI.tgz",
+      "version": "1.240811.2049",
+      "hash": "847c803252dff7db3383901b60ae0eb89685d947"
     }
   }
 }
