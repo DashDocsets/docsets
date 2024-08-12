@@ -8,3 +8,5 @@
 - [`ahooks.docsetconfig`](./ahooks.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps loading message on screen.
 
 - [`NextUI.docsetconfig`](./NextUI.docsetconfig) - Issue with the JavasScript, apparently due to Next.js usage, probably hydratation errors or so.
+
+- [`Rspack.docsetconfig`](./Rspack.docsetconfig) - Issue with the JavasScript, loads the page but then shows 404 error on screen.
