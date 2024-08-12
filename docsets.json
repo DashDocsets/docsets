@@ -593,6 +593,15 @@
       "archive": "ReactSpectrum.tgz",
       "version": "1.240811.2123",
       "hash": "e74350b2285869a1e78e68aff2e60182a98489ce"
+    },
+    "ReactStately": {
+      "name": "ReactStately",
+      "alias": [
+        "ReactStately"
+      ],
+      "archive": "ReactStately.tgz",
+      "version": "1.240811.2128",
+      "hash": "f4fb655e99ae62d08799df181fa8abf5881be445"
     }
   }
 }
