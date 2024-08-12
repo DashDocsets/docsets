@@ -476,6 +476,15 @@
       "archive": "dndkit.tgz",
       "version": "1.240811.1955",
       "hash": "8d99f9d72ae082870d2699bca6edae79d070bcf6"
+    },
+    "ReactEmail": {
+      "name": "ReactEmail",
+      "alias": [
+        "ReactEmail"
+      ],
+      "archive": "ReactEmail.tgz",
+      "version": "1.240811.2002",
+      "hash": "0ab65f775cb1fa8bba6439d2a78954c7e9157301"
     }
   }
 }
