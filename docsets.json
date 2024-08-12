@@ -512,6 +512,15 @@
       "archive": "Pinia.tgz",
       "version": "1.240811.2021",
       "hash": "9baba5cf9cd0911ab31c308bfacb52255d385520"
+    },
+    "Vitest": {
+      "name": "Vitest",
+      "alias": [
+        "Vitest"
+      ],
+      "archive": "Vitest.tgz",
+      "version": "1.240811.2025",
+      "hash": "201b4781e99aba3e8c8b74cf6033f36aa9dc0327"
     }
   }
 }
