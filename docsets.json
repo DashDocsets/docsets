@@ -719,6 +719,24 @@
       "archive": "Valtio.tgz",
       "version": "1.240811.2331",
       "hash": "d98599d7af0d200b24e524586d265685d0d8bdcc"
+    },
+    "Bun": {
+      "name": "Bun",
+      "alias": [
+        "Bun"
+      ],
+      "archive": "Bun.tgz",
+      "version": "1.240812.1622",
+      "hash": "188ab45264816b00524f33fce0ca32e4499e63c1"
+    },
+    "BunGuides": {
+      "name": "BunGuides",
+      "alias": [
+        "BunGuides"
+      ],
+      "archive": "BunGuides.tgz",
+      "version": "1.240812.1626",
+      "hash": "4c70f34143c5796b70cf4d309ebfc48c5d161221"
     }
   }
 }
