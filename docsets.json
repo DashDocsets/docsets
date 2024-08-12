@@ -584,6 +584,15 @@
       "archive": "ReactAria.tgz",
       "version": "1.240811.2114",
       "hash": "1b1e9a0570661e5d5c4bfbdb3911470b67eee818"
+    },
+    "ReactSpectrum": {
+      "name": "ReactSpectrum",
+      "alias": [
+        "ReactSpectrum"
+      ],
+      "archive": "ReactSpectrum.tgz",
+      "version": "1.240811.2123",
+      "hash": "e74350b2285869a1e78e68aff2e60182a98489ce"
     }
   }
 }
