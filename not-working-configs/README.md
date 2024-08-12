@@ -16,3 +16,5 @@
 - [`vanilla-extract.docsetconfig`](./vanilla-extract.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps blank page on screen.
 
 - [`ReactThreeFiber.docsetconfig`](./ReactThreeFiber.docsetconfig) - End docset size is too large (+100MB) and need GIT LFS to be enabled.
+
+- [`NestJS.docsetconfig`](./NestJS.docsetconfig) - Keeps redirecting to instroduction page.
