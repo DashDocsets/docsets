@@ -674,6 +674,15 @@
       "archive": "Kysely.tgz",
       "version": "1.240811.2229",
       "hash": "cf68c24d10d21e83bc89e64debfa9f04f4cf5e4b"
+    },
+    "react-hot-toast": {
+      "name": "react-hot-toast",
+      "alias": [
+        "react-hot-toast"
+      ],
+      "archive": "react-hot-toast.tgz",
+      "version": "1.240811.2234",
+      "hash": "21a141dfe0e9163aaf92cfb533bad9c7c23dbd34"
     }
   }
 }
