@@ -620,6 +620,15 @@
       "archive": "NuxtImage.tgz",
       "version": "1.240811.2136",
       "hash": "66a3698589989511e13414d49ffcf10725b8e491"
+    },
+    "MSW": {
+      "name": "MSW",
+      "alias": [
+        "MSW"
+      ],
+      "archive": "MSW.tgz",
+      "version": "1.240811.2140",
+      "hash": "12b801b21ffbb9eb98b7d4c3fab947f402b162ac"
     }
   }
 }
