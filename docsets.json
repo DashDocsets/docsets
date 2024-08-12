@@ -566,6 +566,15 @@
       "archive": "Tone.js.tgz",
       "version": "1.240811.2054",
       "hash": "accbfea6e3936db0ff136232f1a4216d82777141"
+    },
+    "AutoAnimate": {
+      "name": "AutoAnimate",
+      "alias": [
+        "AutoAnimate"
+      ],
+      "archive": "AutoAnimate.tgz",
+      "version": "1.240811.2101",
+      "hash": "0175d5494546a4a6c2fd55f25314e87f04546a25"
     }
   }
 }
