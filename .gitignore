@@ -1,5 +1,6 @@
 tmp/*
 !tmp/.gitkeep
+!tmp/images/.gitkeep
 node_modules
 .DS_Store
 TODO.md

@@ -12,6 +12,7 @@
     "@inquirer/prompts": "^5.3.8",
     "citty": "^0.1.6",
     "dayjs": "^1.11.12",
-    "remeda": "^2.10.1"
+    "remeda": "^2.10.1",
+    "sharp": "^0.33.4"
   }
 }
