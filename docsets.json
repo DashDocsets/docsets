@@ -701,6 +701,15 @@
       "archive": "Shiki.tgz",
       "version": "1.240811.2245",
       "hash": "0c5cb400eb86774fa4ccae0d296289aec833f81b"
+    },
+    "Turf.js": {
+      "name": "Turf.js",
+      "alias": [
+        "Turf.js"
+      ],
+      "archive": "Turf.js.tgz",
+      "version": "1.240811.2324",
+      "hash": "68a7625b93d8cecb1df420adaa047ec28658e97d"
     }
   }
 }
