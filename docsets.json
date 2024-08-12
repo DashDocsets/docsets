@@ -494,6 +494,15 @@
       "archive": "UnoCSS.tgz",
       "version": "1.240811.2011",
       "hash": "299e1c7dc2b3ec378262724ac20fcef71a79be5c"
+    },
+    "AdonisJS": {
+      "name": "AdonisJS",
+      "alias": [
+        "AdonisJS"
+      ],
+      "archive": "AdonisJS.tgz",
+      "version": "1.240811.2015",
+      "hash": "8d7e458f313ba97c71dea00ec639436c9f0c7f83"
     }
   }
 }
