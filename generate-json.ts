@@ -61,19 +61,19 @@ const main = defineCommand({
 			const docsetFilesDocset = docsets.docsets[docset];
 
 			if (fileContentDocset.hash !== docsetFilesDocset.hash) {
-				console.log("Updating hash for ", docset);
+				console.log("Updating hash for", docset);
 				fileContent.docsets[docset].version = docsetFilesDocset.version;
 				fileContent.docsets[docset].hash = docsetFilesDocset.hash;
 			}
 		}
 
 		for (const docset of newDocsets) {
-			console.log("Adding new docset ", docset);
+			console.log("Adding new docset", docset);
 			fileContent.docsets[docset] = docsets.docsets[docset];
 		}
 
 		for (const docset of removedDocsets) {
-			console.log("Removing docset ", docset);
+			console.log("Removing docset", docset);
 			delete fileContent.docsets[docset];
 		}
 

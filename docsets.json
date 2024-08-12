@@ -701,6 +701,15 @@
       "archive": "Shiki.tgz",
       "version": "1.240811.2245",
       "hash": "0c5cb400eb86774fa4ccae0d296289aec833f81b"
+    },
+    "Plate": {
+      "name": "Plate",
+      "alias": [
+        "Plate"
+      ],
+      "archive": "Plate.tgz",
+      "version": "1.240811.2249",
+      "hash": "53be444fd1ab426ab13bd055df129ae81a1f8327"
     }
   }
 }
