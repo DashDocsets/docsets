@@ -467,6 +467,15 @@
       "archive": "VueUse.tgz",
       "version": "1.240810.1510",
       "hash": "13bd5234ecf0c1529296c0694f5e9dc357371b85"
+    },
+    "dndkit": {
+      "name": "dndkit",
+      "alias": [
+        "dndkit"
+      ],
+      "archive": "dndkit.tgz",
+      "version": "1.240811.1955",
+      "hash": "8d99f9d72ae082870d2699bca6edae79d070bcf6"
     }
   }
 }
