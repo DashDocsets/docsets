@@ -12,3 +12,5 @@
 - [`Rspack.docsetconfig`](./Rspack.docsetconfig) - Issue with the JavasScript, loads the page but then shows 404 error on screen.
 
 - [`Plate.docsetconfig`](./Plate.docsetconfig) - Issue with the JavasScript, apparently due to Next.js usage, probably hydratation errors or so.
+
+- [`vanilla-extract.docsetconfig`](./vanilla-extract.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps blank page on screen.
