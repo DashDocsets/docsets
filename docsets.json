@@ -962,6 +962,15 @@
       "archive": "Vinxi.tgz",
       "version": "1.240812.2356",
       "hash": "e028e84d2a41fdb64b0a1dd94618f55a22f975c1"
+    },
+    "h3": {
+      "name": "h3",
+      "alias": [
+        "h3"
+      ],
+      "archive": "h3.tgz",
+      "version": "1.240812.2359",
+      "hash": "82c84cf3de129c8ed5d8685676de55396711b5d2"
     }
   }
 }
