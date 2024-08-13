@@ -1106,6 +1106,15 @@
       "archive": "TanStackRanger.tgz",
       "version": "1.240813.1646",
       "hash": "4c08e934b7715630d4e40e9402888cb6cb28a74a"
+    },
+    "TestingLibrary": {
+      "name": "TestingLibrary",
+      "alias": [
+        "TestingLibrary"
+      ],
+      "archive": "TestingLibrary.tgz",
+      "version": "1.240813.1651",
+      "hash": "5bbe625124f716bae3c57d76daefb3713318dc01"
     }
   }
 }
