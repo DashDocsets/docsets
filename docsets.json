@@ -791,6 +791,15 @@
       "archive": "gql-tada.tgz",
       "version": "1.240812.2149",
       "hash": "d489836be13b30908969d37327ca570a65a1d9c4"
+    },
+    "GQty": {
+      "name": "GQty",
+      "alias": [
+        "GQty"
+      ],
+      "archive": "GQty.tgz",
+      "version": "1.240812.2156",
+      "hash": "d09e938d7722679160a626dbb7ae536353cc33de"
     }
   }
 }
