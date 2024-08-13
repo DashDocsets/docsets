@@ -1097,6 +1097,15 @@
       "archive": "TanStackForm.tgz",
       "version": "1.240813.1643",
       "hash": "eae564849b12b14399d4d4141494809c092c589b"
+    },
+    "TanStackRanger": {
+      "name": "TanStackRanger",
+      "alias": [
+        "TanStackRanger"
+      ],
+      "archive": "TanStackRanger.tgz",
+      "version": "1.240813.1646",
+      "hash": "4c08e934b7715630d4e40e9402888cb6cb28a74a"
     }
   }
 }
