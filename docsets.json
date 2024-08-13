@@ -1088,6 +1088,15 @@
       "archive": "TanStackRouter.tgz",
       "version": "1.240813.1640",
       "hash": "a29bf56eb848f5cbb492f154e5a1ec5394f13ca0"
+    },
+    "TanStackForm": {
+      "name": "TanStackForm",
+      "alias": [
+        "TanStackForm"
+      ],
+      "archive": "TanStackForm.tgz",
+      "version": "1.240813.1643",
+      "hash": "eae564849b12b14399d4d4141494809c092c589b"
     }
   }
 }
