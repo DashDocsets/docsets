@@ -845,6 +845,15 @@
       "archive": "EffectAPI.tgz",
       "version": "1.240812.2253",
       "hash": "260194221371329f3d71a78c601c1edc5cf7185f"
+    },
+    "JSXemail": {
+      "name": "JSXemail",
+      "alias": [
+        "JSXemail"
+      ],
+      "archive": "JSXemail.tgz",
+      "version": "1.240812.2257",
+      "hash": "1d91cf978b536f01fc96a055493624e0115316a0"
     }
   }
 }
