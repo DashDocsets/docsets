@@ -1151,6 +1151,15 @@
       "archive": "PlaywrightDotNET.tgz",
       "version": "1.240813.1718",
       "hash": "06527ed1c2c9221174a1b2d6832901846d82288a"
+    },
+    "StyledComponents": {
+      "name": "StyledComponents",
+      "alias": [
+        "StyledComponents"
+      ],
+      "archive": "StyledComponents.tgz",
+      "version": "1.240813.1816",
+      "hash": "7aa5cc911bd47fafcecc946fc41ed181b2464f1d"
     }
   }
 }
