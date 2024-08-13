@@ -1061,6 +1061,15 @@
       "archive": "TanStackTable.tgz",
       "version": "1.240813.1631",
       "hash": "3fa4802f893b53c6d76ba0c589a30d965b04ec66"
+    },
+    "TanStackVirtual": {
+      "name": "TanStackVirtual",
+      "alias": [
+        "TanStackVirtual"
+      ],
+      "archive": "TanStackVirtual.tgz",
+      "version": "1.240813.1634",
+      "hash": "3e42f2dc81b9f4d6af73411573efef38784f2223"
     }
   }
 }
