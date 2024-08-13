@@ -782,6 +782,15 @@
       "archive": "garph.tgz",
       "version": "1.240812.2145",
       "hash": "62d71c01dbde51c876d6e1dc3e2f718f7286ee16"
+    },
+    "gql-tada": {
+      "name": "gql-tada",
+      "alias": [
+        "gql-tada"
+      ],
+      "archive": "gql-tada.tgz",
+      "version": "1.240812.2149",
+      "hash": "d489836be13b30908969d37327ca570a65a1d9c4"
     }
   }
 }
