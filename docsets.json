@@ -908,6 +908,15 @@
       "archive": "ReactDayPicker.tgz",
       "version": "1.240812.2323",
       "hash": "af57fc76d9204ebd68b0d9e26f0e62341d3a484a"
+    },
+    "next-safe-action": {
+      "name": "next-safe-action",
+      "alias": [
+        "next-safe-action"
+      ],
+      "archive": "next-safe-action.tgz",
+      "version": "1.240812.2326",
+      "hash": "6ec31bcf5f2a2f3ffd11dcb76638c7fd286ba371"
     }
   }
 }
