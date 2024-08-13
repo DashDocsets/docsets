@@ -917,6 +917,15 @@
       "archive": "next-safe-action.tgz",
       "version": "1.240812.2326",
       "hash": "6ec31bcf5f2a2f3ffd11dcb76638c7fd286ba371"
+    },
+    "next-international": {
+      "name": "next-international",
+      "alias": [
+        "next-international"
+      ],
+      "archive": "next-international.tgz",
+      "version": "1.240812.2328",
+      "hash": "ed0ec217ff5c860a78fe4e747ff2653523a4be96"
     }
   }
 }
