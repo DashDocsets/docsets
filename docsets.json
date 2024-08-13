@@ -854,6 +854,15 @@
       "archive": "JSXemail.tgz",
       "version": "1.240812.2257",
       "hash": "1d91cf978b536f01fc96a055493624e0115316a0"
+    },
+    "MJML": {
+      "name": "MJML",
+      "alias": [
+        "MJML"
+      ],
+      "archive": "MJML.tgz",
+      "version": "1.240812.2300",
+      "hash": "c57e572e59de7c470cbb6dace89fe711cac059f7"
     }
   }
 }
