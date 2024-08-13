@@ -827,6 +827,24 @@
       "archive": "MikroORM.tgz",
       "version": "1.240812.2237",
       "hash": "e36559174c14b9221395304068097d891da2cb57"
+    },
+    "Effect": {
+      "name": "Effect",
+      "alias": [
+        "Effect"
+      ],
+      "archive": "Effect.tgz",
+      "version": "1.240812.2246",
+      "hash": "d53f3117c5ab81a2f418b41fae61dbc6b4bb2fd6"
+    },
+    "EffectAPI": {
+      "name": "EffectAPI",
+      "alias": [
+        "EffectAPI"
+      ],
+      "archive": "EffectAPI.tgz",
+      "version": "1.240812.2253",
+      "hash": "260194221371329f3d71a78c601c1edc5cf7185f"
     }
   }
 }
