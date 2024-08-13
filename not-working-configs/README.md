@@ -20,3 +20,5 @@
 - [`NestJS.docsetconfig`](./NestJS.docsetconfig) - Keeps redirecting to instroduction page.
 
 - [`urql.docsetconfig`](./urql.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps blank page on screen.
+
+- [`PothosGraphQL.docsetconfig`](./PothosGraphQL.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps blank page on screen.
