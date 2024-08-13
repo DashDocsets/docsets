@@ -1034,6 +1034,15 @@
       "archive": "Javascript.info.tgz",
       "version": "1.240813.1557",
       "hash": "d73b04bfd46695d50725e5bb7af37bbe2b7319a5"
+    },
+    "ReduxToolkit": {
+      "name": "ReduxToolkit",
+      "alias": [
+        "ReduxToolkit"
+      ],
+      "archive": "ReduxToolkit.tgz",
+      "version": "1.240813.1622",
+      "hash": "3d3e9a971f154b467a88e889608ed07c38cad297"
     }
   }
 }
