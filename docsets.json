@@ -1115,6 +1115,42 @@
       "archive": "TestingLibrary.tgz",
       "version": "1.240813.1651",
       "hash": "5bbe625124f716bae3c57d76daefb3713318dc01"
+    },
+    "PlaywrightNodeJS": {
+      "name": "PlaywrightNodeJS",
+      "alias": [
+        "PlaywrightNodeJS"
+      ],
+      "archive": "PlaywrightNodeJS.tgz",
+      "version": "1.240813.1808",
+      "hash": "f82ce6e16291f02f07123e54e7b8422b96895cce"
+    },
+    "PlaywrightPython": {
+      "name": "PlaywrightPython",
+      "alias": [
+        "PlaywrightPython"
+      ],
+      "archive": "PlaywrightPython.tgz",
+      "version": "1.240813.1708",
+      "hash": "549b298dbd759aec99b288de28af614ae870d583"
+    },
+    "PlaywrightJava": {
+      "name": "PlaywrightJava",
+      "alias": [
+        "PlaywrightJava"
+      ],
+      "archive": "PlaywrightJava.tgz",
+      "version": "1.240813.1715",
+      "hash": "f36c64142325596b6fb273e250a086d985f193ac"
+    },
+    "PlaywrightDotNET": {
+      "name": "PlaywrightDotNET",
+      "alias": [
+        "PlaywrightDotNET"
+      ],
+      "archive": "PlaywrightDotNET.tgz",
+      "version": "1.240813.1718",
+      "hash": "06527ed1c2c9221174a1b2d6832901846d82288a"
     }
   }
 }
