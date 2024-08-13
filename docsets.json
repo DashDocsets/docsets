@@ -1079,6 +1079,15 @@
       "archive": "TanStackStore.tgz",
       "version": "1.240813.1636",
       "hash": "323f5af729d66d945058823dce8a544c5834a92a"
+    },
+    "TanStackRouter": {
+      "name": "TanStackRouter",
+      "alias": [
+        "TanStackRouter"
+      ],
+      "archive": "TanStackRouter.tgz",
+      "version": "1.240813.1640",
+      "hash": "a29bf56eb848f5cbb492f154e5a1ec5394f13ca0"
     }
   }
 }
