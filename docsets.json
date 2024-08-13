@@ -1052,6 +1052,15 @@
       "archive": "TanStackQuery.tgz",
       "version": "1.240813.1626",
       "hash": "a9b86c8812a16f272a1b1d4b5307b47988ccfd3e"
+    },
+    "TanStackTable": {
+      "name": "TanStackTable",
+      "alias": [
+        "TanStackTable"
+      ],
+      "archive": "TanStackTable.tgz",
+      "version": "1.240813.1631",
+      "hash": "3fa4802f893b53c6d76ba0c589a30d965b04ec66"
     }
   }
 }
