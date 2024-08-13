@@ -944,6 +944,15 @@
       "archive": "next-intl.tgz",
       "version": "1.240812.2340",
       "hash": "016c4e55fe565e42450cf51fcefa137e6a3dfafa"
+    },
+    "Nitro": {
+      "name": "Nitro",
+      "alias": [
+        "Nitro"
+      ],
+      "archive": "Nitro.tgz",
+      "version": "1.240812.2353",
+      "hash": "96cc2c0f259a23555c71e58f563ed03824884f77"
     }
   }
 }
