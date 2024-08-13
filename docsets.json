@@ -1187,6 +1187,15 @@
       "archive": "PandaCSS.tgz",
       "version": "1.240813.1836",
       "hash": "39055d1653e0a66750ad5a6c6ae3348b16ad1321"
+    },
+    "daisyUI": {
+      "name": "daisyUI",
+      "alias": [
+        "daisyUI"
+      ],
+      "archive": "daisyUI.tgz",
+      "version": "1.240813.1841",
+      "hash": "5a1507e1a876e6652dfaf64abbf9024dfdebe17c"
     }
   }
 }
