@@ -1007,6 +1007,15 @@
       "archive": "Fresh.tgz",
       "version": "1.240813.0020",
       "hash": "74c72a7d5444478c726b8a7183892d7aea1f980a"
+    },
+    "Waku": {
+      "name": "Waku",
+      "alias": [
+        "Waku"
+      ],
+      "archive": "Waku.tgz",
+      "version": "1.240813.0027",
+      "hash": "31ffae7d47c98f67166ebde60ddfd1faf69887a5"
     }
   }
 }
