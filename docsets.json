@@ -935,6 +935,15 @@
       "archive": "nuqs.tgz",
       "version": "1.240812.2335",
       "hash": "f4cb7385d74648f32f68633c8f71fb9f8bd69152"
+    },
+    "next-intl": {
+      "name": "next-intl",
+      "alias": [
+        "next-intl"
+      ],
+      "archive": "next-intl.tgz",
+      "version": "1.240812.2340",
+      "hash": "016c4e55fe565e42450cf51fcefa137e6a3dfafa"
     }
   }
 }
