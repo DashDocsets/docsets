@@ -971,6 +971,15 @@
       "archive": "h3.tgz",
       "version": "1.240812.2359",
       "hash": "82c84cf3de129c8ed5d8685676de55396711b5d2"
+    },
+    "magic-regexp": {
+      "name": "magic-regexp",
+      "alias": [
+        "magic-regexp"
+      ],
+      "archive": "magic-regexp.tgz",
+      "version": "1.240813.0003",
+      "hash": "022a16555985f35fa4441e647a0a71cf93cd6716"
     }
   }
 }
