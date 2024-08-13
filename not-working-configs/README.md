@@ -24,3 +24,5 @@
 - [`PothosGraphQL.docsetconfig`](./PothosGraphQL.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and then keeps blank page on screen.
 
 - [`Rooks.docsetconfig`](./Rooks.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and keeps on the screen.
+
+- [`zsa.docsetconfig`](./zsa.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and keeps on the screen.
