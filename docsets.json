@@ -1043,6 +1043,15 @@
       "archive": "ReduxToolkit.tgz",
       "version": "1.240813.1622",
       "hash": "3d3e9a971f154b467a88e889608ed07c38cad297"
+    },
+    "TanStackQuery": {
+      "name": "TanStackQuery",
+      "alias": [
+        "TanStackQuery"
+      ],
+      "archive": "TanStackQuery.tgz",
+      "version": "1.240813.1626",
+      "hash": "a9b86c8812a16f272a1b1d4b5307b47988ccfd3e"
     }
   }
 }
