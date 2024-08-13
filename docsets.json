@@ -1016,6 +1016,15 @@
       "archive": "Waku.tgz",
       "version": "1.240813.0027",
       "hash": "31ffae7d47c98f67166ebde60ddfd1faf69887a5"
+    },
+    "Analog": {
+      "name": "Analog",
+      "alias": [
+        "Analog"
+      ],
+      "archive": "Analog.tgz",
+      "version": "1.240813.0033",
+      "hash": "b94e2e5c1942ad9a3acf58b871361841ec421b1c"
     }
   }
 }
