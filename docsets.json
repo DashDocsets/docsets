@@ -980,6 +980,15 @@
       "archive": "magic-regexp.tgz",
       "version": "1.240813.0003",
       "hash": "022a16555985f35fa4441e647a0a71cf93cd6716"
+    },
+    "unstorage": {
+      "name": "unstorage",
+      "alias": [
+        "unstorage"
+      ],
+      "archive": "unstorage.tgz",
+      "version": "1.240813.0006",
+      "hash": "8f154df35e95a4d911c8615966240b9d5c5c711d"
     }
   }
 }
