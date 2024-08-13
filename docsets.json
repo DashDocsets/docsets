@@ -773,6 +773,15 @@
       "archive": "Nexus.tgz",
       "version": "1.240812.2138",
       "hash": "8bd82e5b79e6bfe7849a036f84a2e2d28a641e8a"
+    },
+    "garph": {
+      "name": "garph",
+      "alias": [
+        "garph"
+      ],
+      "archive": "garph.tgz",
+      "version": "1.240812.2145",
+      "hash": "62d71c01dbde51c876d6e1dc3e2f718f7286ee16"
     }
   }
 }
