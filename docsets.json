@@ -953,6 +953,15 @@
       "archive": "Nitro.tgz",
       "version": "1.240812.2353",
       "hash": "96cc2c0f259a23555c71e58f563ed03824884f77"
+    },
+    "Vinxi": {
+      "name": "Vinxi",
+      "alias": [
+        "Vinxi"
+      ],
+      "archive": "Vinxi.tgz",
+      "version": "1.240812.2356",
+      "hash": "e028e84d2a41fdb64b0a1dd94618f55a22f975c1"
     }
   }
 }
