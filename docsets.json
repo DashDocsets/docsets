@@ -890,6 +890,15 @@
       "archive": "useHooks.tgz",
       "version": "1.240812.2310",
       "hash": "93f2e2f3f08b5c9192b9b10513bc648bae82601e"
+    },
+    "ReactHotkeysHook": {
+      "name": "ReactHotkeysHook",
+      "alias": [
+        "ReactHotkeysHook"
+      ],
+      "archive": "ReactHotkeysHook.tgz",
+      "version": "1.240812.2317",
+      "hash": "cfc577662b25f5054d9d57a0f188b6c84511bd76"
     }
   }
 }
