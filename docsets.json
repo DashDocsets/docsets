@@ -863,6 +863,15 @@
       "archive": "MJML.tgz",
       "version": "1.240812.2300",
       "hash": "c57e572e59de7c470cbb6dace89fe711cac059f7"
+    },
+    "Mailing": {
+      "name": "Mailing",
+      "alias": [
+        "Mailing"
+      ],
+      "archive": "Mailing.tgz",
+      "version": "1.240812.2302",
+      "hash": "56b106d95cc8e89503ea20bba4ff58653a64b3a1"
     }
   }
 }
