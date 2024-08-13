@@ -1169,6 +1169,15 @@
       "archive": "Emotion.tgz",
       "version": "1.240813.1822",
       "hash": "6c0494bb8e60535c05e5ec3e70184b4aed6c7a9d"
+    },
+    "ChakraUI": {
+      "name": "ChakraUI",
+      "alias": [
+        "ChakraUI"
+      ],
+      "archive": "ChakraUI.tgz",
+      "version": "1.240813.1831",
+      "hash": "139ccc3b869c6ddbe78f0ff33be78555ea074482"
     }
   }
 }
