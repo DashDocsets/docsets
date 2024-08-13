@@ -881,6 +881,15 @@
       "archive": "usehooks-ts.tgz",
       "version": "1.240812.2306",
       "hash": "0337855bf7a7500db03eb602ceccf188ae46905b"
+    },
+    "useHooks": {
+      "name": "useHooks",
+      "alias": [
+        "useHooks"
+      ],
+      "archive": "useHooks.tgz",
+      "version": "1.240812.2310",
+      "hash": "93f2e2f3f08b5c9192b9b10513bc648bae82601e"
     }
   }
 }
