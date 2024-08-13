@@ -989,6 +989,15 @@
       "archive": "unstorage.tgz",
       "version": "1.240813.0006",
       "hash": "8f154df35e95a4d911c8615966240b9d5c5c711d"
+    },
+    "EmblaCarousel": {
+      "name": "EmblaCarousel",
+      "alias": [
+        "EmblaCarousel"
+      ],
+      "archive": "EmblaCarousel.tgz",
+      "version": "1.240813.0013",
+      "hash": "615324a56543f4a23698b9cc74af5a707a4f97e9"
     }
   }
 }
