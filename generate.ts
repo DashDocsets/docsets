@@ -104,6 +104,15 @@ const main = defineCommand({
 		if (shouldGenerateJson) {
 			await $`./generate-json.ts`;
 		}
+
+		const shouldGenerateImages = await confirm({
+			message: "Do you want to generate images?",
+			default: true,
+		});
+
+		if (shouldGenerateImages) {
+			await $`./generate-images.ts`;
+		}
 	},
 });
 

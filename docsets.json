@@ -737,6 +737,15 @@
       "archive": "BunGuides.tgz",
       "version": "1.240812.1626",
       "hash": "4c70f34143c5796b70cf4d309ebfc48c5d161221"
+    },
+    "GraphQLYoga": {
+      "name": "GraphQLYoga",
+      "alias": [
+        "GraphQLYoga"
+      ],
+      "archive": "GraphQLYoga.tgz",
+      "version": "1.240812.2121",
+      "hash": "7bd2aea845c187ba1bc5987057ca02cdd229ec85"
     }
   }
 }
