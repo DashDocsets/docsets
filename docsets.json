@@ -1178,6 +1178,15 @@
       "archive": "ChakraUI.tgz",
       "version": "1.240813.1831",
       "hash": "139ccc3b869c6ddbe78f0ff33be78555ea074482"
+    },
+    "PandaCSS": {
+      "name": "PandaCSS",
+      "alias": [
+        "PandaCSS"
+      ],
+      "archive": "PandaCSS.tgz",
+      "version": "1.240813.1836",
+      "hash": "39055d1653e0a66750ad5a6c6ae3348b16ad1321"
     }
   }
 }
