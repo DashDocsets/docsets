@@ -872,6 +872,15 @@
       "archive": "Mailing.tgz",
       "version": "1.240812.2302",
       "hash": "56b106d95cc8e89503ea20bba4ff58653a64b3a1"
+    },
+    "usehooks-ts": {
+      "name": "usehooks-ts",
+      "alias": [
+        "usehooks-ts"
+      ],
+      "archive": "usehooks-ts.tgz",
+      "version": "1.240812.2306",
+      "hash": "0337855bf7a7500db03eb602ceccf188ae46905b"
     }
   }
 }
