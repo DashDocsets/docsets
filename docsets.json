@@ -899,6 +899,15 @@
       "archive": "ReactHotkeysHook.tgz",
       "version": "1.240812.2317",
       "hash": "cfc577662b25f5054d9d57a0f188b6c84511bd76"
+    },
+    "ReactDayPicker": {
+      "name": "ReactDayPicker",
+      "alias": [
+        "ReactDayPicker"
+      ],
+      "archive": "ReactDayPicker.tgz",
+      "version": "1.240812.2323",
+      "hash": "af57fc76d9204ebd68b0d9e26f0e62341d3a484a"
     }
   }
 }
