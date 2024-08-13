@@ -1160,6 +1160,15 @@
       "archive": "StyledComponents.tgz",
       "version": "1.240813.1816",
       "hash": "7aa5cc911bd47fafcecc946fc41ed181b2464f1d"
+    },
+    "Emotion": {
+      "name": "Emotion",
+      "alias": [
+        "Emotion"
+      ],
+      "archive": "Emotion.tgz",
+      "version": "1.240813.1822",
+      "hash": "6c0494bb8e60535c05e5ec3e70184b4aed6c7a9d"
     }
   }
 }
