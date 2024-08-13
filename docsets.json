@@ -818,6 +818,15 @@
       "archive": "TypeDoc.tgz",
       "version": "1.240812.2214",
       "hash": "9946d327392dd8164d79092cee7a287f3ad102b0"
+    },
+    "MikroORM": {
+      "name": "MikroORM",
+      "alias": [
+        "MikroORM"
+      ],
+      "archive": "MikroORM.tgz",
+      "version": "1.240812.2237",
+      "hash": "e36559174c14b9221395304068097d891da2cb57"
     }
   }
 }
