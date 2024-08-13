@@ -755,6 +755,15 @@
       "archive": "TypeGraphQL.tgz",
       "version": "1.240812.2127",
       "hash": "74ce8258c9c61efaf8f1dc2a9a92f837fbc80836"
+    },
+    "GraphQLTools": {
+      "name": "GraphQLTools",
+      "alias": [
+        "GraphQLTools"
+      ],
+      "archive": "GraphQLTools.tgz",
+      "version": "1.240812.2134",
+      "hash": "0d89b1a6806519fca675bb2847dc0e5c08a341be"
     }
   }
 }
