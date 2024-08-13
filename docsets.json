@@ -926,6 +926,15 @@
       "archive": "next-international.tgz",
       "version": "1.240812.2328",
       "hash": "ed0ec217ff5c860a78fe4e747ff2653523a4be96"
+    },
+    "nuqs": {
+      "name": "nuqs",
+      "alias": [
+        "nuqs"
+      ],
+      "archive": "nuqs.tgz",
+      "version": "1.240812.2335",
+      "hash": "f4cb7385d74648f32f68633c8f71fb9f8bd69152"
     }
   }
 }
