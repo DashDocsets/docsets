@@ -746,6 +746,15 @@
       "archive": "GraphQLYoga.tgz",
       "version": "1.240812.2121",
       "hash": "7bd2aea845c187ba1bc5987057ca02cdd229ec85"
+    },
+    "TypeGraphQL": {
+      "name": "TypeGraphQL",
+      "alias": [
+        "TypeGraphQL"
+      ],
+      "archive": "TypeGraphQL.tgz",
+      "version": "1.240812.2127",
+      "hash": "74ce8258c9c61efaf8f1dc2a9a92f837fbc80836"
     }
   }
 }
