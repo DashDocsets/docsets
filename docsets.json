@@ -1259,6 +1259,15 @@
       "archive": "Cypress.tgz",
       "version": "1.240813.2031",
       "hash": "98fd627681550e94110ec7dedc553ef1ebe89955"
+    },
+    "react-datepicker": {
+      "name": "react-datepicker",
+      "alias": [
+        "react-datepicker"
+      ],
+      "archive": "react-datepicker.tgz",
+      "version": "1.240813.2036",
+      "hash": "4f4792b4d49f6847a32811c3b996d10c0dae63c9"
     }
   }
 }
