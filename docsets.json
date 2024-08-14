@@ -1277,6 +1277,15 @@
       "archive": "Swiper.tgz",
       "version": "1.240813.2048",
       "hash": "fe80605ab869f9d2318bcbde7e12b7f4ee0cf3d1"
+    },
+    "Keen-Slider": {
+      "name": "Keen-Slider",
+      "alias": [
+        "Keen-Slider"
+      ],
+      "archive": "Keen-Slider.tgz",
+      "version": "1.240813.2055",
+      "hash": "63271be5bed107cca74e8c11f5e1651db9160810"
     }
   }
 }
