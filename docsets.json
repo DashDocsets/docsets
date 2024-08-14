@@ -1241,6 +1241,15 @@
       "archive": "react-uploady.tgz",
       "version": "1.240813.1959",
       "hash": "385bc95f2bc329c0f78af8160a6fc3a278f93730"
+    },
+    "Downshift": {
+      "name": "Downshift",
+      "alias": [
+        "Downshift"
+      ],
+      "archive": "Downshift.tgz",
+      "version": "1.240813.2002",
+      "hash": "36605a9032b16a22275f89454cca949e8585a8fd"
     }
   }
 }
