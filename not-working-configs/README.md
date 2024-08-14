@@ -28,3 +28,5 @@
 - [`zsa.docsetconfig`](./zsa.docsetconfig) - Issue with the JavasScript, some React client-side error, shows the Page and keeps on the screen.
 
 - [`Playwright.docsetconfig`](./Playwright.docsetconfig) - Too large docset size (+100MB) and need GIT LFS to be enabled. Split into different docsets for each language.
+
+- [`FastAPI.docsetconfig`](./FastAPI.docsetconfig) - Issue with the JavasScript, some client-side error.

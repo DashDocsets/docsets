@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>allowFilters</key>
+		<string>
+			https://fastapi.tiangolo.com,https://fastapi.tiangolo.com/*,https://fastapi.tiangolo.com/*/*,https://fastapi.tiangolo.com/*/*/*,https://fastapi.tiangolo.com/*/*/*/*</string>
+		<key>basicIndexEnabled</key>
+		<true />
+		<key>cssToInject</key>
+		<string>footer { display: none !important; }</string>
+		<key>denyFilters</key>
+		<string>
+			https://fastapi.tiangolo.com/az,https://fastapi.tiangolo.com/az/*,https://fastapi.tiangolo.com/az/*/*,https://fastapi.tiangolo.com/az/*/*/*,https://fastapi.tiangolo.com/az/*/*/*/*,https://fastapi.tiangolo.com/bn,https://fastapi.tiangolo.com/bn/*,https://fastapi.tiangolo.com/bn/*/*,https://fastapi.tiangolo.com/bn/*/*/*,https://fastapi.tiangolo.com/bn/*/*/*/*,https://fastapi.tiangolo.com/de,https://fastapi.tiangolo.com/de/*,https://fastapi.tiangolo.com/de/*/*,https://fastapi.tiangolo.com/de/*/*/*,https://fastapi.tiangolo.com/de/*/*/*/*,https://fastapi.tiangolo.com/es,https://fastapi.tiangolo.com/es/*,https://fastapi.tiangolo.com/es/*/*,https://fastapi.tiangolo.com/es/*/*/*,https://fastapi.tiangolo.com/es/*/*/*/*,https://fastapi.tiangolo.com/fa,https://fastapi.tiangolo.com/fa/*,https://fastapi.tiangolo.com/fa/*/*,https://fastapi.tiangolo.com/fa/*/*/*,https://fastapi.tiangolo.com/fa/*/*/*/*,https://fastapi.tiangolo.com/fr,https://fastapi.tiangolo.com/fr/*,https://fastapi.tiangolo.com/fr/*/*,https://fastapi.tiangolo.com/fr/*/*/*,https://fastapi.tiangolo.com/fr/*/*/*/*,https://fastapi.tiangolo.com/he,https://fastapi.tiangolo.com/he/*,https://fastapi.tiangolo.com/he/*/*,https://fastapi.tiangolo.com/he/*/*/*,https://fastapi.tiangolo.com/he/*/*/*/*,https://fastapi.tiangolo.com/hu,https://fastapi.tiangolo.com/hu/*,https://fastapi.tiangolo.com/hu/*/*,https://fastapi.tiangolo.com/hu/*/*/*,https://fastapi.tiangolo.com/hu/*/*/*/*,https://fastapi.tiangolo.com/id,https://fastapi.tiangolo.com/id/*,https://fastapi.tiangolo.com/id/*/*,https://fastapi.tiangolo.com/id/*/*/*,https://fastapi.tiangolo.com/id/*/*/*/*,https://fastapi.tiangolo.com/it,https://fastapi.tiangolo.com/it/*,https://fastapi.tiangolo.com/it/*/*,https://fastapi.tiangolo.com/it/*/*/*,https://fastapi.tiangolo.com/it/*/*/*/*,https://fastapi.tiangolo.com/ja,https://fastapi.tiangolo.com/ja/*,https://fastapi.tiangolo.com/ja/*/*,https://fastapi.tiangolo.com/ja/*/*/*,https://fastapi.tiangolo.com/ja/*/*/*/*,https://fastapi.tiangolo.com/ko,https://fastapi.tiangolo.com/ko/*,https://fastapi.tiangolo.com/ko/*/*,https://fastapi.tiangolo.com/ko/*/*/*,https://fastapi.tiangolo.com/ko/*/*/*/*,https://fastapi.tiangolo.com/pl,https://fastapi.tiangolo.com/pl/*,https://fastapi.tiangolo.com/pl/*/*,https://fastapi.tiangolo.com/pl/*/*/*,https://fastapi.tiangolo.com/pl/*/*/*/*,https://fastapi.tiangolo.com/pt,https://fastapi.tiangolo.com/pt/*,https://fastapi.tiangolo.com/pt/*/*,https://fastapi.tiangolo.com/pt/*/*/*,https://fastapi.tiangolo.com/pt/*/*/*/*,https://fastapi.tiangolo.com/ru,https://fastapi.tiangolo.com/ru/*,https://fastapi.tiangolo.com/ru/*/*,https://fastapi.tiangolo.com/ru/*/*/*,https://fastapi.tiangolo.com/ru/*/*/*/*,https://fastapi.tiangolo.com/tr,https://fastapi.tiangolo.com/tr/*,https://fastapi.tiangolo.com/tr/*/*,https://fastapi.tiangolo.com/tr/*/*/*,https://fastapi.tiangolo.com/tr/*/*/*/*,https://fastapi.tiangolo.com/uk,https://fastapi.tiangolo.com/uk/*,https://fastapi.tiangolo.com/uk/*/*,https://fastapi.tiangolo.com/uk/*/*/*,https://fastapi.tiangolo.com/uk/*/*/*/*,https://fastapi.tiangolo.com/ur,https://fastapi.tiangolo.com/ur/*,https://fastapi.tiangolo.com/ur/*/*,https://fastapi.tiangolo.com/ur/*/*/*,https://fastapi.tiangolo.com/ur/*/*/*/*,https://fastapi.tiangolo.com/vi,https://fastapi.tiangolo.com/vi/*,https://fastapi.tiangolo.com/vi/*/*,https://fastapi.tiangolo.com/vi/*/*/*,https://fastapi.tiangolo.com/vi/*/*/*/*,https://fastapi.tiangolo.com/yo,https://fastapi.tiangolo.com/yo/*,https://fastapi.tiangolo.com/yo/*/*,https://fastapi.tiangolo.com/yo/*/*/*,https://fastapi.tiangolo.com/yo/*/*/*/*,https://fastapi.tiangolo.com/zh,https://fastapi.tiangolo.com/zh/*,https://fastapi.tiangolo.com/zh/*/*,https://fastapi.tiangolo.com/zh/*/*/*,https://fastapi.tiangolo.com/zh/*/*/*/*,https://fastapi.tiangolo.com/zh-hant,https://fastapi.tiangolo.com/zh-hant/*,https://fastapi.tiangolo.com/zh-hant/*/*,https://fastapi.tiangolo.com/zh-hant/*/*/*,https://fastapi.tiangolo.com/zh-hant/*/*/*/*,https://fastapi.tiangolo.com/em,https://fastapi.tiangolo.com/em/*,https://fastapi.tiangolo.com/em/*/*,https://fastapi.tiangolo.com/em/*/*/*,https://fastapi.tiangolo.com/em/*/*/*/*</string>
+		<key>docsetKeyword</key>
+		<string>fastapi</string>
+		<key>docsetName</key>
+		<string>FastAPI</string>
+		<key>extraInfoPlist</key>
+		<string></string>
+		<key>isFromLocalFolder</key>
+		<false />
+		<key>isFromWebsite</key>
+		<true />
+		<key>javaScriptIndexEnabled</key>
+		<false />
+		<key>javaScriptUsedToIndex</key>
+		<string>const pageTitle = $("title").text(); dashDoc.addEntry({name: pageTitle, type:
+			"Guide"}); $("h1").each(function() { const entryName = $(this).text(); var entryHash =
+			$(this).attr('id'); if(!entryHash) { entryHash = entryName.replace(/\W/g, '');
+			$(this).attr('id', entryHash); } dashDoc.addEntry({name: entryName, type: "Section",
+			hash: entryHash}); });</string>
+		<key>localFolderPath</key>
+		<string></string>
+		<key>websiteURL</key>
+		<string>https://fastapi.tiangolo.com</string>
+	</dict>
+</plist>
