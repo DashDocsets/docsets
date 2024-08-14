@@ -1250,6 +1250,15 @@
       "archive": "Downshift.tgz",
       "version": "1.240813.2002",
       "hash": "36605a9032b16a22275f89454cca949e8585a8fd"
+    },
+    "Cypress": {
+      "name": "Cypress",
+      "alias": [
+        "Cypress"
+      ],
+      "archive": "Cypress.tgz",
+      "version": "1.240813.2031",
+      "hash": "98fd627681550e94110ec7dedc553ef1ebe89955"
     }
   }
 }
