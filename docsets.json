@@ -1205,6 +1205,15 @@
       "archive": "react-dropzone.tgz",
       "version": "1.240813.1846",
       "hash": "b1c173d3b44fbc72e04902d6addfdec82fe8a4bf"
+    },
+    "Recoil": {
+      "name": "Recoil",
+      "alias": [
+        "Recoil"
+      ],
+      "archive": "Recoil.tgz",
+      "version": "1.240813.1940",
+      "hash": "c6568debf5577e2c477b9209213919fe016d0b65"
     }
   }
 }
