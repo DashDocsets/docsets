@@ -1286,6 +1286,15 @@
       "archive": "Keen-Slider.tgz",
       "version": "1.240813.2055",
       "hash": "63271be5bed107cca74e8c11f5e1651db9160810"
+    },
+    "Fastify": {
+      "name": "Fastify",
+      "alias": [
+        "Fastify"
+      ],
+      "archive": "Fastify.tgz",
+      "version": "1.240813.2124",
+      "hash": "ebfa5a3ff7f2efa35751d7a0f1a97ceba8cbe354"
     }
   }
 }
