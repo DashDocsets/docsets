@@ -1232,6 +1232,15 @@
       "archive": "Immer.tgz",
       "version": "1.240813.1952",
       "hash": "412b3578075eb3a207278a59c21795b901a4127f"
+    },
+    "react-uploady": {
+      "name": "react-uploady",
+      "alias": [
+        "react-uploady"
+      ],
+      "archive": "react-uploady.tgz",
+      "version": "1.240813.1959",
+      "hash": "385bc95f2bc329c0f78af8160a6fc3a278f93730"
     }
   }
 }
