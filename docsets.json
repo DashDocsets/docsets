@@ -1295,6 +1295,15 @@
       "archive": "Fastify.tgz",
       "version": "1.240813.2124",
       "hash": "ebfa5a3ff7f2efa35751d7a0f1a97ceba8cbe354"
+    },
+    "tinyhttp": {
+      "name": "tinyhttp",
+      "alias": [
+        "tinyhttp"
+      ],
+      "archive": "tinyhttp.tgz",
+      "version": "1.240813.2129",
+      "hash": "23a9c10a7346d59da77558b795655eabe78e271b"
     }
   }
 }
