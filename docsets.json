@@ -1223,6 +1223,15 @@
       "archive": "effector.tgz",
       "version": "1.240813.1946",
       "hash": "18ec320cd70e344b5d353631f1107551199af294"
+    },
+    "Immer": {
+      "name": "Immer",
+      "alias": [
+        "Immer"
+      ],
+      "archive": "Immer.tgz",
+      "version": "1.240813.1952",
+      "hash": "412b3578075eb3a207278a59c21795b901a4127f"
     }
   }
 }
