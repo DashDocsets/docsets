@@ -1313,6 +1313,15 @@
       "archive": "Fuse.js.tgz",
       "version": "1.240814.2126",
       "hash": "2a67abc0ace67d00ad6d55fdc6ce6f73a7478bc1"
+    },
+    "Parcel": {
+      "name": "Parcel",
+      "alias": [
+        "Parcel"
+      ],
+      "archive": "Parcel.tgz",
+      "version": "1.240814.2136",
+      "hash": "4226c7c350d13aa8225ba3eacbcae73653f752cf"
     }
   }
 }
