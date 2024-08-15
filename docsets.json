@@ -1304,6 +1304,15 @@
       "archive": "tinyhttp.tgz",
       "version": "1.240813.2129",
       "hash": "23a9c10a7346d59da77558b795655eabe78e271b"
+    },
+    "Fuse.js": {
+      "name": "Fuse.js",
+      "alias": [
+        "Fuse.js"
+      ],
+      "archive": "Fuse.js.tgz",
+      "version": "1.240814.2126",
+      "hash": "2a67abc0ace67d00ad6d55fdc6ce6f73a7478bc1"
     }
   }
 }
