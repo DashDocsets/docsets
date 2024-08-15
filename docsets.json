@@ -1331,6 +1331,15 @@
       "archive": "esbuild.tgz",
       "version": "1.240814.2138",
       "hash": "4140441341447685e221f4205981c4e42b38e4fd"
+    },
+    "Rollup": {
+      "name": "Rollup",
+      "alias": [
+        "Rollup"
+      ],
+      "archive": "Rollup.tgz",
+      "version": "1.240814.2141",
+      "hash": "84b40d9c05ef32e7ae0d609cedda6481cf1834b1"
     }
   }
 }
