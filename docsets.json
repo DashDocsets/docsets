@@ -1340,6 +1340,15 @@
       "archive": "Rollup.tgz",
       "version": "1.240814.2141",
       "hash": "84b40d9c05ef32e7ae0d609cedda6481cf1834b1"
+    },
+    "SWC": {
+      "name": "SWC",
+      "alias": [
+        "SWC"
+      ],
+      "archive": "SWC.tgz",
+      "version": "1.240814.2143",
+      "hash": "44f6726498e9c5126174b162bb2472b15b8e465c"
     }
   }
 }
