@@ -1367,6 +1367,15 @@
       "archive": "Turborepo.tgz",
       "version": "1.240814.2156",
       "hash": "852c6d3f207dd35e2b3860cfcf55d2404e7cb6f0"
+    },
+    "Turbopack": {
+      "name": "Turbopack",
+      "alias": [
+        "Turbopack"
+      ],
+      "archive": "Turbopack.tgz",
+      "version": "1.240814.2158",
+      "hash": "41a5fe8c0ccc18c9f79a855d32c9cfa4636cee6f"
     }
   }
 }
