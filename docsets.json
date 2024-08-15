@@ -1322,6 +1322,15 @@
       "archive": "Parcel.tgz",
       "version": "1.240814.2136",
       "hash": "4226c7c350d13aa8225ba3eacbcae73653f752cf"
+    },
+    "esbuild": {
+      "name": "esbuild",
+      "alias": [
+        "esbuild"
+      ],
+      "archive": "esbuild.tgz",
+      "version": "1.240814.2138",
+      "hash": "4140441341447685e221f4205981c4e42b38e4fd"
     }
   }
 }
