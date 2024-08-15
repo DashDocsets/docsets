@@ -1385,6 +1385,15 @@
       "archive": "Snowpack.tgz",
       "version": "1.240814.2202",
       "hash": "1851436a938b1cfd62436cd73880a7ecb48786af"
+    },
+    "Farm": {
+      "name": "Farm",
+      "alias": [
+        "Farm"
+      ],
+      "archive": "Farm.tgz",
+      "version": "1.240814.2209",
+      "hash": "6c23bded9b1f088ee679bf055a746a671c0b6dc1"
     }
   }
 }
