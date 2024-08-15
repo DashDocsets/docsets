@@ -1349,6 +1349,15 @@
       "archive": "SWC.tgz",
       "version": "1.240814.2143",
       "hash": "44f6726498e9c5126174b162bb2472b15b8e465c"
+    },
+    "Biome": {
+      "name": "Biome",
+      "alias": [
+        "Biome"
+      ],
+      "archive": "Biome.tgz",
+      "version": "1.240814.2152",
+      "hash": "a50341674e1fe1b2859bd7dc34e444d606215444"
     }
   }
 }
