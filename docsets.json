@@ -1394,6 +1394,15 @@
       "archive": "Farm.tgz",
       "version": "1.240814.2209",
       "hash": "6c23bded9b1f088ee679bf055a746a671c0b6dc1"
+    },
+    "Oxc": {
+      "name": "Oxc",
+      "alias": [
+        "Oxc"
+      ],
+      "archive": "Oxc.tgz",
+      "version": "1.240814.2218",
+      "hash": "934b5aa66f752c343b9f490532a54678fce8d8f8"
     }
   }
 }
