@@ -1403,6 +1403,15 @@
       "archive": "Oxc.tgz",
       "version": "1.240814.2218",
       "hash": "934b5aa66f752c343b9f490532a54678fce8d8f8"
+    },
+    "SafeQL": {
+      "name": "SafeQL",
+      "alias": [
+        "SafeQL"
+      ],
+      "archive": "SafeQL.tgz",
+      "version": "1.240814.2356",
+      "hash": "36c3429e19ee72d750bf7a942ec539c1f49f3489"
     }
   }
 }
