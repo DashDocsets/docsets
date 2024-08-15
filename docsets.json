@@ -1412,6 +1412,15 @@
       "archive": "SafeQL.tgz",
       "version": "1.240814.2356",
       "hash": "36c3429e19ee72d750bf7a942ec539c1f49f3489"
+    },
+    "Chicane": {
+      "name": "Chicane",
+      "alias": [
+        "Chicane"
+      ],
+      "archive": "Chicane.tgz",
+      "version": "1.240815.0029",
+      "hash": "18b77d2a8cedfe73d6bfe7a76406d114146003a0"
     }
   }
 }
