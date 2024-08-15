@@ -1358,6 +1358,15 @@
       "archive": "Biome.tgz",
       "version": "1.240814.2152",
       "hash": "a50341674e1fe1b2859bd7dc34e444d606215444"
+    },
+    "Turborepo": {
+      "name": "Turborepo",
+      "alias": [
+        "Turborepo"
+      ],
+      "archive": "Turborepo.tgz",
+      "version": "1.240814.2156",
+      "hash": "852c6d3f207dd35e2b3860cfcf55d2404e7cb6f0"
     }
   }
 }
