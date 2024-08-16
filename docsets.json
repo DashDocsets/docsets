@@ -1430,6 +1430,15 @@
       "archive": "Echo.tgz",
       "version": "1.240815.2017",
       "hash": "b8c8ccf0c1d0bf4ac35dd8ae0df6b929f5377685"
+    },
+    "Gin": {
+      "name": "Gin",
+      "alias": [
+        "Gin"
+      ],
+      "archive": "Gin.tgz",
+      "version": "1.240815.2020",
+      "hash": "48bf3b717ee8e0c15bb9212f5271719a67096163"
     }
   }
 }
