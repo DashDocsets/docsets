@@ -1448,6 +1448,15 @@
       "archive": "Beego.tgz",
       "version": "1.240815.2026",
       "hash": "0c2ee7c642706552502192415ee8b3b2e6163c0e"
+    },
+    "Hugo": {
+      "name": "Hugo",
+      "alias": [
+        "Hugo"
+      ],
+      "archive": "Hugo.tgz",
+      "version": "1.240815.2034",
+      "hash": "719922a54e9cc00ef16e4c1f568afe1c0d07b10e"
     }
   }
 }
