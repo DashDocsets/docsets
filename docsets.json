@@ -1421,6 +1421,15 @@
       "archive": "Chicane.tgz",
       "version": "1.240815.0029",
       "hash": "18b77d2a8cedfe73d6bfe7a76406d114146003a0"
+    },
+    "Echo": {
+      "name": "Echo",
+      "alias": [
+        "Echo"
+      ],
+      "archive": "Echo.tgz",
+      "version": "1.240815.2017",
+      "hash": "b8c8ccf0c1d0bf4ac35dd8ae0df6b929f5377685"
     }
   }
 }
