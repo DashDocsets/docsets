@@ -1484,6 +1484,15 @@
       "archive": "etcd.tgz",
       "version": "1.240815.2119",
       "hash": "f17086f1660a2f79ddf782e9c94dd13131a79e9d"
+    },
+    "Buffalo": {
+      "name": "Buffalo",
+      "alias": [
+        "Buffalo"
+      ],
+      "archive": "Buffalo.tgz",
+      "version": "1.240815.2123",
+      "hash": "fc89b5d9e0201dcbd5bc12644a60bc12c1067cea"
     }
   }
 }
