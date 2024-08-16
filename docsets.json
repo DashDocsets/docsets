@@ -1457,6 +1457,15 @@
       "archive": "Hugo.tgz",
       "version": "1.240815.2034",
       "hash": "719922a54e9cc00ef16e4c1f568afe1c0d07b10e"
+    },
+    "Caddy": {
+      "name": "Caddy",
+      "alias": [
+        "Caddy"
+      ],
+      "archive": "Caddy.tgz",
+      "version": "1.240815.2107",
+      "hash": "ff873cdcc66fdce743a7bc32d7b4354ca378f447"
     }
   }
 }
