@@ -1439,6 +1439,15 @@
       "archive": "Gin.tgz",
       "version": "1.240815.2020",
       "hash": "48bf3b717ee8e0c15bb9212f5271719a67096163"
+    },
+    "Beego": {
+      "name": "Beego",
+      "alias": [
+        "Beego"
+      ],
+      "archive": "Beego.tgz",
+      "version": "1.240815.2026",
+      "hash": "0c2ee7c642706552502192415ee8b3b2e6163c0e"
     }
   }
 }
