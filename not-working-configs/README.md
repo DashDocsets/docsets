@@ -30,3 +30,5 @@
 - [`Playwright.docsetconfig`](./Playwright.docsetconfig) - Too large docset size (+100MB) and need GIT LFS to be enabled. Split into different docsets for each language.
 
 - [`FastAPI.docsetconfig`](./FastAPI.docsetconfig) - Issue with the JavasScript, some client-side error.
+
+- [`chi.docsetconfig`](./chi.docsetconfig) - Issue with the JavasScript, some client-side error - shows not found page on screen.
