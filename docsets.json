@@ -1475,6 +1475,15 @@
       "archive": "Traefik.tgz",
       "version": "1.240815.2115",
       "hash": "9d184f7875cb70e9358e9b30039d486cfac11091"
+    },
+    "etcd": {
+      "name": "etcd",
+      "alias": [
+        "etcd"
+      ],
+      "archive": "etcd.tgz",
+      "version": "1.240815.2119",
+      "hash": "f17086f1660a2f79ddf782e9c94dd13131a79e9d"
     }
   }
 }
