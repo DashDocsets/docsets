@@ -1466,6 +1466,15 @@
       "archive": "Caddy.tgz",
       "version": "1.240815.2107",
       "hash": "ff873cdcc66fdce743a7bc32d7b4354ca378f447"
+    },
+    "Traefik": {
+      "name": "Traefik",
+      "alias": [
+        "Traefik"
+      ],
+      "archive": "Traefik.tgz",
+      "version": "1.240815.2115",
+      "hash": "9d184f7875cb70e9358e9b30039d486cfac11091"
     }
   }
 }
