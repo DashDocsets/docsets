@@ -1493,6 +1493,15 @@
       "archive": "Buffalo.tgz",
       "version": "1.240815.2123",
       "hash": "fc89b5d9e0201dcbd5bc12644a60bc12c1067cea"
+    },
+    "Patterns.dev": {
+      "name": "Patterns.dev",
+      "alias": [
+        "Patterns.dev"
+      ],
+      "archive": "Patterns.dev.tgz",
+      "version": "1.240820.1527",
+      "hash": "5754a3b344e7084f6bb877db8a24b29e0752a5a8"
     }
   }
 }
