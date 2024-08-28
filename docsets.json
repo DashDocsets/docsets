@@ -1511,6 +1511,15 @@
       "archive": "Voca.tgz",
       "version": "1.240827.2145",
       "hash": "356babadad56fe8b4788ab546c1c11397cf5d60e"
+    },
+    "Dinero.js.v1": {
+      "name": "Dinero.js.v1",
+      "alias": [
+        "Dinero.js.v1"
+      ],
+      "archive": "Dinero.js.v1.tgz",
+      "version": "1.240827.2152",
+      "hash": "8084d244d455f08ff26dc3557b61219cfbb998d4"
     }
   }
 }
