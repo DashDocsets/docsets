@@ -1538,6 +1538,15 @@
       "archive": "chroma.js.tgz",
       "version": "1.240827.2203",
       "hash": "315bdc89b8c9b81c34ffb5745ec088672aa2fe15"
+    },
+    "currency.js": {
+      "name": "currency.js",
+      "alias": [
+        "currency.js"
+      ],
+      "archive": "currency.js.tgz",
+      "version": "1.240827.2206",
+      "hash": "682cd114ffc8b91a21cb02ab255faca52c81384e"
     }
   }
 }
