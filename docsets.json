@@ -1529,6 +1529,15 @@
       "archive": "Dinero.js.tgz",
       "version": "1.240827.2155",
       "hash": "ff4cd31208d61c2de2557d7ade199710c2a49c96"
+    },
+    "chroma.js": {
+      "name": "chroma.js",
+      "alias": [
+        "chroma.js"
+      ],
+      "archive": "chroma.js.tgz",
+      "version": "1.240827.2203",
+      "hash": "315bdc89b8c9b81c34ffb5745ec088672aa2fe15"
     }
   }
 }
