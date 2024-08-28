@@ -1547,6 +1547,15 @@
       "archive": "currency.js.tgz",
       "version": "1.240827.2206",
       "hash": "682cd114ffc8b91a21cb02ab255faca52c81384e"
+    },
+    "math.js": {
+      "name": "math.js",
+      "alias": [
+        "math.js"
+      ],
+      "archive": "math.js.tgz",
+      "version": "1.240827.2227",
+      "hash": "0ec277a9aab108cf21443eb17ed693afc06b4050"
     }
   }
 }
