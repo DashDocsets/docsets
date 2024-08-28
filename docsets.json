@@ -1502,6 +1502,15 @@
       "archive": "Patterns.dev.tgz",
       "version": "1.240820.1527",
       "hash": "5754a3b344e7084f6bb877db8a24b29e0752a5a8"
+    },
+    "Voca": {
+      "name": "Voca",
+      "alias": [
+        "Voca"
+      ],
+      "archive": "Voca.tgz",
+      "version": "1.240827.2145",
+      "hash": "356babadad56fe8b4788ab546c1c11397cf5d60e"
     }
   }
 }
